@@ -1,0 +1,11 @@
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\bin\Debug\Lab03_WindowsForm_XuLySuKien.exe.config
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\bin\Debug\Lab03_WindowsForm_XuLySuKien.exe
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\bin\Debug\Lab03_WindowsForm_XuLySuKien.pdb
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.frmSinhVien.resources
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.Properties.Resources.resources
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.csproj.GenerateResource.cache
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.exe
+C:\Users\Hoàng Anh\Documents\Desktop App\Lab03_WindowsForm_XuLySuKien\Lab03_WindowsForm_XuLySuKien\obj\Debug\Lab03_WindowsForm_XuLySuKien.pdb

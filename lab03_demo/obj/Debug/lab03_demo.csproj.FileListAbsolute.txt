@@ -1,0 +1,32 @@
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\bin\Debug\lab03_demo.exe.config
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\bin\Debug\lab03_demo.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\bin\Debug\lab03_demo.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.csproj.AssemblyReference.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.csproj.SuggestedBindingRedirects.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.Form1.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.Properties.Resources.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.csproj.GenerateResource.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.csproj.CoreCompileInputs.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lab03_demo\obj\Debug\lab03_demo.pdb
+C:\New folder (4)\Desktop Applications\lab03_demo\bin\Debug\lab03_demo.exe.config
+C:\New folder (4)\Desktop Applications\lab03_demo\bin\Debug\lab03_demo.exe
+C:\New folder (4)\Desktop Applications\lab03_demo\bin\Debug\lab03_demo.pdb
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.csproj.AssemblyReference.cache
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.csproj.SuggestedBindingRedirects.cache
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.Form1.resources
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.Properties.Resources.resources
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.csproj.GenerateResource.cache
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.csproj.CoreCompileInputs.cache
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.exe
+C:\New folder (4)\Desktop Applications\lab03_demo\obj\Debug\lab03_demo.pdb
+C:\Users\CICT\Desktop\lab03_demo\bin\Debug\lab03_demo.exe.config
+C:\Users\CICT\Desktop\lab03_demo\bin\Debug\lab03_demo.exe
+C:\Users\CICT\Desktop\lab03_demo\bin\Debug\lab03_demo.pdb
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.csprojAssemblyReference.cache
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.Form1.resources
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.Properties.Resources.resources
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.csproj.GenerateResource.cache
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.exe
+C:\Users\CICT\Desktop\lab03_demo\obj\Debug\lab03_demo.pdb
